@@ -1,0 +1,5 @@
+NAME:Gaurav Shinde
+AGE:18
+DOB:04/06/2004
+ACCOUNT NO:696969635
+ACCOUNT TYPE:International savings
